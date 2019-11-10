@@ -1,0 +1,10 @@
+{
+  "name": "lrucache",
+  "version": "0.0.0",
+  "description": "LRUCache",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {}
+}
